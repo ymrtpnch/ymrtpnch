@@ -6,7 +6,7 @@
 - 🎬 [Educational programming videos on YouTube](https://www.linkedin.com/in/appanchenko/)
 - ✉️ You can shoot me at (email: ymrtpnch@gmail.com) or (telegram: @ArtemPanche).
 
-#### My CV: [Artem Panchenko.pdf]()
+#### 📄 My CV: [Artem_Panchenko_iOS_Developer.pdf](./Artem%20Panchenko%20iOS%20Developer.pdf)
 
 ## 🛠 My badges 
 
