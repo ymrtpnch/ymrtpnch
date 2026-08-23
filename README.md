@@ -1,12 +1,13 @@
 # Hi there 👋 I'm Artem
 
 - 🇷🇺 I live in Moscow, Russia.
+- 🧭 Former iOS Developer, now a System Analyst focused on system architecture and integrations.
 - 📱 I write code for [5+ years](https://www.linkedin.com/in/appanchenko/), most of the time on Swift (UIKit + Combine). 
 - 🎨 I'm also passionate about SwiftUI.
-- 🎬 [Educational programming videos on YouTube](https://www.linkedin.com/in/appanchenko/)
+- 🎬 [Educational programming videos on YouTube](https://www.youtube.com/@SystemPanch/videos)
 - ✉️ You can shoot me at (email: ymrtpnch@gmail.com) or (telegram: @ArtemPanche).
 
-#### 📄 My CV: [Artem_Panchenko_iOS_Developer.pdf](./Artem%20Panchenko%20iOS%20Developer.pdf)
+#### 📄 My CV: 
 
 ## 🛠 My badges 
 
