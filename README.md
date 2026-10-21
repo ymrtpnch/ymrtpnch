@@ -2,7 +2,7 @@
 - 🇷🇺 I live in Moscow, Russia.
 - 🧭 Former iOS Developer, now a System Analyst focused on system architecture and integrations.
 - 📱 I write code for [5+ years](https://www.linkedin.com/in/appanchenko/), most of the time on Swift (UIKit + Combine).
-- 🎨 I'm also passionate about SwiftUI.
+- 🎨 I'm also passionate about GO.
 - 🎬 [Educational programming videos on YouTube](https://www.youtube.com/@SystemPanch/videos)
 - ✉️ You can shoot me at (email: ymrtpnch@gmail.com) or (telegram: @ArtemPanche).
 
