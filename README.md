@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Artem! I turn research into shipped products.
 - 🇷🇺 I live in Moscow, Russia.
 - 🧭 Former iOS developer, now a systems analyst focused on system architecture and integrations. Diving deep into agentic workflows, LLM pipelines, and production ML systems.
-- 📱 I write code for big tech [5+ years], most of the time on Swift (UIKit + Combine).
+- 📱 Spent 5+ years writing code in Big Tech, mostly in Swift (UIKit + Combine).
 - 🎨 I'm also passionate about GO.
 - 🎬 [Educational programming videos on YouTube](https://www.youtube.com/@SystemPanch/videos)
 - ✉️ You can shoot me at (email: ymrtpnch@gmail.com) or (telegram: @ArtemPanche).
